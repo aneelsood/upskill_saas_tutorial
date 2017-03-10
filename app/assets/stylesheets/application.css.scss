@@ -64,6 +64,12 @@ h1, h2, h3 {
     border: 2px solid white;
 }
 
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background: #00c6ff;
+}
+
+
 
 //Homepage Styles
 .home-callout {
